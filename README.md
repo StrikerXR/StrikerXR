@@ -7,14 +7,14 @@
 ## 📈 GitHub Stats
 <div align="center">
 
-[![StrikerXRR GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StrikerXRR&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![StrikerXRR GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StrikerXRR&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![StrikerXRR GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![StrikerXRR GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXRR&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXRR&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak-dark](https://streak-stats.demolab.com?user=StrikerXRR&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-light](https://streak-stats.demolab.com?user=StrikerXRR&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak-dark](https://streak-stats.demolab.com?user=StrikerXR&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak-light](https://streak-stats.demolab.com?user=StrikerXR&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🧩 Activity Overview
 
-![StrikerXRR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrikerXRR&theme=github-dark&bg_color=0d1117&hide_border=true)
+![StrikerXRR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrikerXR&theme=github-dark&bg_color=0d1117&hide_border=true)
 
 ---
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/StrikerXRR"><img src="https://img.shields.io/badge/GitHub-StrikerXRR-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-Join%20Cha-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:strikerxrr@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
