@@ -62,8 +62,7 @@
 
 ## 🔧 Recent Projects
 
-- 🎵 **LG Music:** Liquid-glass style web music player (4K UI, EQ, and visualizer)
-I usually make crap dont bother lol
+- 🎵 **PixelPlayX:** 
 ---
 
 ## 📊 Profile Summary Card
