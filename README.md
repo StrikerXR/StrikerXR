@@ -2,13 +2,14 @@
 
 A developer and tech enthusiast with a strong passion for **Google** and the Android ecosystem!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,androidstudio,apple,blender,git,github,gcp,gradle,linux,windows,ai&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,androidstudio,apple,blender,git,github,linux,windows,ai,gemini&perline=8)](https://skillicons.dev)
 
 ---
 
-## 💻 My Project: CrashAI
+## 💻 My Projects:
+CrashAI
+Thats really it i just make random stuff.
 
-My current main focus is on **CrashAI**! I'm dedicated to building and improving this project.
 
 ---
 
