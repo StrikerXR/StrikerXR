@@ -35,12 +35,6 @@ Thats really it i just make random stuff.
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=StrikerXRR&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Editors:** VS Code, Android Studio, and Google AI Studio
