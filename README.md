@@ -1,6 +1,6 @@
 # 👋 Hey, I'm StrikerXRR
 
-A passionate developer and tech enthusiast with a deep interest in the **Google** and **Android ecosystems**. I enjoy building innovative solutions and exploring the latest in mobile and AI technology.
+A "passionate" developer and tech enthusiast with a deep interest in the **Google** and **Android ecosystems**. I enjoy building innovative solutions and exploring the latest in mobile and AI technology.
 
 ---
 
