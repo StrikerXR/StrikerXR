@@ -13,23 +13,9 @@
   I love turning coffee into code, experimenting with <b>Gemini AI</b>, and customizing the Android experience.
 </p>
 
-<!-- Socials -->
-<p align="center">
-  <a href="mailto:adlaitesla@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
 
 <!-- Tech Stack -->
-## 🛠️ The Arsenal
+## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,lua,git,github,vscode,linux,windows,gemini&perline=14" />
 
 </div>
@@ -41,7 +27,7 @@
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
 | **🤖 CrashAI** | An innovative AI experiment utilizing Google's Gemini API to see if a car in BeamNG is totaled or not. | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🔗 **[View Live](https://crash-ai.vercel.app)** | *More features coming soon...* | |
+| 🔗 **[View Live](https://crash-ai.vercel.app)**
 
 ---
 
