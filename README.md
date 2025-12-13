@@ -1,73 +1,71 @@
-# 👋 Hey, I'm StrikerXRR
+<div align="center">
 
-A "passionate" developer and tech enthusiast with a deep interest in the **Google** and **Android ecosystems**. I enjoy building innovative solutions and exploring the latest in mobile and AI technology.
+<!-- Typing Animation Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+StrikerXRR!+%F0%9F%91%8B;Android+%26+Google+Enthusiast;Building+cool+stuff+with+AI" alt="Typing SVG" />
+</a>
 
----
-
-## 🚀 What I'm Working On
-
-I love to build and experiment with new ideas. Here are some of my projects:
-
--   **CrashAI**
-    -   **Tech Stack:** Gemini API, HTML and JS
-    -   **Link:** crash-ai.vercel.app
----
-
-## 🛠️ My Tech Stack
-
-Here are some of the technologies and tools I'm comfortable with:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,androidstudio,git,github,linux,windows,ai,gemini&perline=8)](https://skillicons.dev)
-
--   **Editors & IDEs:** VS Code, Android Studio, Google AI Studio
--   **Operating Systems:** Windows 11 & Various Linux Distros
--   **Current Mobile Device:** [Google Pixel](https://google.com/pixel)
-
----
-
-## 💬 Let's Connect
+<!-- Intro -->
+### Tech Enthusiast | Hobbyist Developer | Android Lover
 
 <p align="center">
-  <a href="mailto:adlaitesla@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  I'm a hobbyist developer exploring the limits of the <b>Google Ecosystem</b>. <br/>
+  I love turning coffee into code, experimenting with <b>Gemini AI</b>, and customizing the Android experience.
+</p>
+
+<!-- Socials -->
+<p align="center">
+  <a href="mailto:adlaitesla@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="[YOUR LINKEDIN PROFILE URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="[YOUR TWITTER/X PROFILE URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white">
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
----
+<br/>
 
-## 📈 My GitHub Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats -->
-[![StrikerXRR GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![StrikerXRR GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!-- Top Languages -->
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)
-
-<!-- GitHub Streak -->
-[![GitHub Streak-dark](https://streak-stats.demolab.com?user=StrikerXR&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-light](https://streak-stats.demolab.com?user=StrikerXR&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+<!-- Tech Stack -->
+## 🛠️ The Arsenal
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,lua,git,github,vscode,linux,windows,gemini&perline=14" />
 
 </div>
 
-<!-- Activity Graph -->
-![StrikerXRR Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrikerXR&theme=github-dark&bg_color=0d1117&hide_border=true)
+---
+
+## 🚀 Featured Project
+
+| **Project** | **Description** | **Tech** |
+| :--- | :--- | :--- |
+| **🤖 CrashAI** | An innovative AI experiment utilizing Google's Gemini API to see if a car in BeamNG is totaled or not. | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔗 **[View Live](https://crash-ai.vercel.app)** | *More features coming soon...* | |
 
 ---
 
-## 🕹️ Fun Stuff
+## 📊 GitHub Analytics
 
-<!-- GitHub Snake -->
-![GitHub Snake Dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+
+<!-- Stats Table for better layout -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=StrikerXR&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+
+<!-- Snake Animation -->
+<br/><br/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</div>
