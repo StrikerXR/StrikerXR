@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+StrikerXR;Tech+Enthusiast;Android+Lover;Gemini+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+StrikerXR;" alt="Typing SVG" />
 </a>
 
 ### 🛠️ Hobbyist Developer | Google Ecosystem Enthusiast
