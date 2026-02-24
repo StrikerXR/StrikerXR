@@ -7,19 +7,16 @@
 ### 🛠️ Hobbyist Developer | Google Ecosystem Enthusiast
 
 <p align="center">
-  I enjoy pushing the boundaries of the <b>Google Ecosystem</b> and <b>Android</b>.<br/>
+  I enjoy pushing the boundaries of the <b>Google Ecosystem</b> and <b>SwiftUI</b>.<br/>
   Currently experimenting with <b>Gemini AI</b> and automating creative workflows.
 </p>
 
-<img src="https://skillicons.dev/icons?i=swift,java,html,css,js,lua,git,github,vscode,linux,windows,mac&perline=14" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=swift,java,html,css,js,lua,git,github,vscode,linux,windows&perline=14" alt="My Skills" />
 
 <br/>
 
 ---
 
-## 🚀 Featured Project: [NexusX](https://github.com/StrikerXR/NexusX)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StrikerXR&repo=NexusX&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=4285F4" alt="NexusX Project Card" />
 
 ---
 
