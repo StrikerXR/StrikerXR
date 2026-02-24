@@ -11,7 +11,7 @@
   Currently experimenting with <b>Gemini AI</b> and automating creative workflows.
 </p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,lua,git,github,vscode,linux,windows,gemini&perline=14" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=swift,java,html,css,js,lua,git,github,vscode,linux,windows,mac&perline=14" alt="My Skills" />
 
 <br/>
 
