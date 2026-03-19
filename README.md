@@ -7,8 +7,6 @@
 ### 🛠️ Hobbyist Developer | Google Ecosystem Enthusiast
 
 <p align="center">
-  I enjoy pushing the boundaries of the <b>Google Ecosystem</b> and <b>SwiftUI</b>.<br/>
-  Currently experimenting with <b>Gemini AI</b> and automating creative workflows.
 </p>
 
 <img src="https://skillicons.dev/icons?i=swift,java,html,css,js,lua,git,github,vscode,linux,windows&perline=14" alt="My Skills" />
