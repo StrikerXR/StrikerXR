@@ -88,8 +88,6 @@ struct StrikerXR: Developer {
 
 ---
 
-<sub>Built with 🖤 and a lot of ☕ · Running on macOS</sub>
-
 <img src="https://komarev.com/ghpvc/?username=StrikerXR&color=0A84FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
