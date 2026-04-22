@@ -25,7 +25,7 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,html,css,js,lua,git,github,vscode,linux&perline=10" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=swift,html,css,js,lua,git,github,vscode,linux&perline=10" alt="Skills" />
 
 <br/>
 
