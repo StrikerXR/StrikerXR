@@ -1,16 +1,20 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=34&pause=1000&color=0A84FF&center=true&vCenter=true&width=560&lines=Hey+there!+I'm+StrikerXR+%F0%9F%91%8B;Swift+%26+Apple+Ecosystem+Dev;Building+cool+things+for+iOS+%26+macOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=34&pause=1000&color=70c1ff&multiline=false&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+StrikerXR+👋;Swift+%26+Apple+Ecosystem+Dev;Building+the+future+of+iOS+%26+macOS" alt="StrikerXR" />
 </a>
 
 <br/>
 
-> *"Simplicity is the ultimate sophistication."* — Steve Jobs
-> *"You can only do so many things great, and you should cast aside everything else."* - Tim Cook
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> — <b>Steve Jobs</b>
+  <br/>
+  <i>"You can only do so many things great, and you should cast aside everything else."</i> — <b>Tim Cook</b>
+</p>
 
 ---
 
+</div>
 ### 🍎 Hobbyist Developer · Apple Ecosystem Enthusiast
 
 <br/>
