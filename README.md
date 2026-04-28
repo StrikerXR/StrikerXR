@@ -7,6 +7,7 @@
 <br/>
 
 > *"Simplicity is the ultimate sophistication."* — Steve Jobs
+> *"You can only do so many things great, and you should cast aside everything else."* - Tim Cook
 
 ---
 
