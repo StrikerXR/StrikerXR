@@ -1,30 +1,26 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=34&pause=1000&color=70c1ff&multiline=false&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+StrikerXR+👋;Swift+%26+Apple+Ecosystem+Dev;Building+the+future+of+iOS+%26+macOS" alt="StrikerXR" />
-</a>
-
-<br/>
+# StrikerXR 
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — <b>Steve Jobs</b>
-  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=34&pause=1000&color=70c1ff&multiline=false&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+StrikerXR+👋;Swift+%26+Apple+Ecosystem+Dev;Building+the+future+of+iOS+%26+macOS" alt="StrikerXR" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> — <b>Steve Jobs</b><br>
   <i>"You can only do so many things great, and you should cast aside everything else."</i> — <b>Tim Cook</b>
 </p>
 
 ---
 
-</div>
 ### 🍎 Hobbyist Developer · Apple Ecosystem Enthusiast
 
-<br/>
-
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/macos/)
-
-<br/>
+<p align="left">
+  <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" /></a>
+  <a href="https://developer.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></a>
+  <a href="https://developer.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></a>
+</p>
 
 ---
 
@@ -32,48 +28,61 @@
 
 <img src="https://skillicons.dev/icons?i=swift,html,css,js,lua,git,github,vscode,linux&perline=10" alt="Skills" />
 
-<br/>
+---
+
+## 🍏 Platforms & Frameworks
+
+| Platform | Tools & Frameworks |
+| :--- | :--- |
+| 📱 **iOS / iPadOS** | SwiftUI · UIKit · Core Data |
+| 🖥️ **macOS** | AppKit · Swift Packages · Xcode |
+| 🌐 **Web** | HTML · CSS · JavaScript · React · TypeScript |
+| 🛠️ **Other** | GitHub Actions |
 
 ---
 
-## 🍏 What I Work With
-
-| Platform | Tools & Frameworks |
-|---|---|
-| 📱 **iOS / iPadOS** | SwiftUI · UIKit · Core Data |
-| 🖥️ **macOS** | AppKit · Swift Packages · Xcode |
-| 🌐 **Web** | HTML · CSS · JavaScript · React TypeScript|
-| 🛠️ **Other** | GitHub Actions |
-
-<br/>
+## 🚀 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>📦 Project Name 1</h3>
+      <p>A beautiful, native iOS application built entirely with SwiftUI and Swift Concurrency.</p>
+      <p><code>SwiftUI</code> <code>CoreData</code></p>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Project Name 2</h3>
+      <p>A powerful macOS utility menu-bar app designed to streamline developer workflows.</p>
+      <p><code>AppKit</code> <code>Swift Packages</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Insights
 
-<table>
+<table border="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A84FF&icon_color=0A84FF&text_color=c9d1d9" alt="GitHub Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=StrikerXR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A84FF&icon_color=0A84FF&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A84FF&text_color=c9d1d9" alt="Top Languages" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerXR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A84FF&text_color=c9d1d9" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=StrikerXR&theme=tokyonight&hide_border=true&background=0d1117&stroke=0A84FF&ring=0A84FF&fire=FF453A&currStreakLabel=0A84FF" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=StrikerXR&theme=tokyonight&hide_border=true&background=0d1117&stroke=0A84FF&ring=0A84FF&fire=FF453A&currStreakLabel=0A84FF" width="80%" alt="GitHub Streak" />
-
-<br/><br/>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub Snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br/>
 
 ---
 
@@ -87,12 +96,3 @@ struct StrikerXR: Developer {
     let learning = "SwiftUI · Xcode Instruments · Swift Concurrency"
     let goal     = "Ship clean, native Apple apps 🚀"
 }
-```
-
-<br/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=StrikerXR&color=0A84FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-</div>
