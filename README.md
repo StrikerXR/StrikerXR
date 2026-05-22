@@ -41,24 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3>📦 Project Name 1</h3>
-      <p>A beautiful, native iOS application built entirely with SwiftUI and Swift Concurrency.</p>
-      <p><code>SwiftUI</code> <code>CoreData</code></p>
-    </td>
-    <td width="50%">
-      <h3>🛠️ Project Name 2</h3>
-      <p>A powerful macOS utility menu-bar app designed to streamline developer workflows.</p>
-      <p><code>AppKit</code> <code>Swift Packages</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Insights
 
 <table border="0">
