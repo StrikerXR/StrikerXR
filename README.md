@@ -6,11 +6,14 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — <b>Steve Jobs</b><br>
-  <i>"You can only do so many things great, and you should cast aside everything else."</i> — <b>Tim Cook</b>
-</p>
+> *"Simplicity is the ultimate sophistication."* 
+> — **Steve Jobs**
 
+> *"You can only do so many things great, and you should cast aside everything else."* 
+> — **Tim Cook**
+
+> *"I think the reality is that the best invention in engineering comes from constraints."* 
+> — **John Ternus**
 ---
 
 ### 🍎 Hobbyist Developer · Apple Ecosystem Enthusiast
